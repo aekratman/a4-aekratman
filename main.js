@@ -35,7 +35,7 @@ const controls = {
     recColor: 0xd1ff,
     sphereColor: 0xFFD966,
     size: 5,
-    yourColor: 0xFFD966;,
+    yourColor: 0xFFD966,
 
     addSphere: function(){
       addRandomSphere();
